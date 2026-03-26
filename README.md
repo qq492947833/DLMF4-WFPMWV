@@ -1,4 +1,4 @@
-# DL4ML-5VSRMF
+# DLMF4-WFPMWV
 This code for article "Short-term forecasting of 3D wind field based on deep learning and water vapor"
 
 All files starting with "风场反演-多层次小时数据-" are model operation results; the "1hour" following the file name indicates a forecast lead time of 1 hour, and so on; the "CNN-Transformer" in the file name represents the use of the CNN-Transformer model for water vapor retrieval of wind; "5year-order" denotes the use of 5 years of data with sequential splitting for the training set, validation set, and test set (all models adopt this configuration); if the file name ends with "fusion," it indicates a hybrid model.  
